@@ -1,0 +1,8 @@
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_EXCEPCIONES\bin\Debug\Laboratorio_CSharp_EXCEPCIONES.exe.config
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_EXCEPCIONES\bin\Debug\Laboratorio_CSharp_EXCEPCIONES.exe
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_EXCEPCIONES\bin\Debug\Laboratorio_CSharp_EXCEPCIONES.pdb
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_EXCEPCIONES\obj\Debug\Laboratorio_CSharp_EXCEPCIONES.csproj.AssemblyReference.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_EXCEPCIONES\obj\Debug\Laboratorio_CSharp_EXCEPCIONES.csproj.SuggestedBindingRedirects.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_EXCEPCIONES\obj\Debug\Laboratorio_CSharp_EXCEPCIONES.csproj.CoreCompileInputs.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_EXCEPCIONES\obj\Debug\Laboratorio_CSharp_EXCEPCIONES.exe
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_EXCEPCIONES\obj\Debug\Laboratorio_CSharp_EXCEPCIONES.pdb

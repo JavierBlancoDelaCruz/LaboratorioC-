@@ -1,0 +1,8 @@
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_SINTAXIS\obj\Debug\Laboratorio_CSharp_SINTAXIS.csproj.AssemblyReference.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_SINTAXIS\obj\Debug\Laboratorio_CSharp_SINTAXIS.csproj.SuggestedBindingRedirects.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_SINTAXIS\obj\Debug\Laboratorio_CSharp_SINTAXIS.csproj.CoreCompileInputs.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_SINTAXIS\bin\Debug\Laboratorio_CSharp_SINTAXIS.exe.config
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_SINTAXIS\bin\Debug\Laboratorio_CSharp_SINTAXIS.exe
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_SINTAXIS\bin\Debug\Laboratorio_CSharp_SINTAXIS.pdb
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_SINTAXIS\obj\Debug\Laboratorio_CSharp_SINTAXIS.exe
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_SINTAXIS\obj\Debug\Laboratorio_CSharp_SINTAXIS.pdb
