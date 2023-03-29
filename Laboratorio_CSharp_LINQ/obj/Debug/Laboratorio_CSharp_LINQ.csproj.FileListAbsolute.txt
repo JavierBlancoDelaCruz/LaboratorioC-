@@ -1,0 +1,8 @@
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_LINQ\bin\Debug\Laboratorio_CSharp_LINQ.exe.config
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_LINQ\bin\Debug\Laboratorio_CSharp_LINQ.exe
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_LINQ\bin\Debug\Laboratorio_CSharp_LINQ.pdb
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_LINQ\obj\Debug\Laboratorio_CSharp_LINQ.csproj.AssemblyReference.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_LINQ\obj\Debug\Laboratorio_CSharp_LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_LINQ\obj\Debug\Laboratorio_CSharp_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_LINQ\obj\Debug\Laboratorio_CSharp_LINQ.exe
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_LINQ\obj\Debug\Laboratorio_CSharp_LINQ.pdb

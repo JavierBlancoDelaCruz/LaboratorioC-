@@ -1,0 +1,8 @@
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_POO\bin\Debug\Laboratorio_CSharp_POO.exe.config
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_POO\bin\Debug\Laboratorio_CSharp_POO.exe
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_POO\bin\Debug\Laboratorio_CSharp_POO.pdb
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_POO\obj\Debug\Laboratorio_CSharp_POO.csproj.AssemblyReference.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_POO\obj\Debug\Laboratorio_CSharp_POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_POO\obj\Debug\Laboratorio_CSharp_POO.csproj.CoreCompileInputs.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_POO\obj\Debug\Laboratorio_CSharp_POO.exe
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_POO\obj\Debug\Laboratorio_CSharp_POO.pdb
