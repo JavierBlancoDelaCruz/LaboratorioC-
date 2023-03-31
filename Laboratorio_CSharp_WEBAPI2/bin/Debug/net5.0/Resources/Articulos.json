@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Camiseta Deportiva",
+    "Descripcion": "Estas camisetas son especiales para actividades físicas, suelen ser de materiales sintéticos delgados que transpiran para mantener a las personas frescas, permitiendo que su rendimiento físico aumente",
+    "FechaEntrada": "28/02/2023",
+    "Cantidad": 100
+  },
+  {
+    "Id": 2,
+    "Nombre": "Ventilador de techo",
+    "Descripcion": "Increible frescor en la casa, este ventilador se ventila hasta el mal humor de la parienta. ¡No dudes en hacerte con él antes de que tu mujer vuelva a pedirte abanicarla!",
+    "FechaEntrada": "30/03/2023",
+    "Cantidad": 5
+  },
+  {
+    "Id": 4,
+    "Nombre": "Lámpara de lava",
+    "Descripcion": "En realidad no es de lava, pero sí es una lámpara",
+    "FechaEntrada": "30/03/2023",
+    "Cantidad": 10
+  }
+]

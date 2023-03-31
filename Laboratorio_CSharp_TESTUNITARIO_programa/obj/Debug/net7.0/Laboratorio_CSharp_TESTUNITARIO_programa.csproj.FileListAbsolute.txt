@@ -1,0 +1,15 @@
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\bin\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.exe
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\bin\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.deps.json
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\bin\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.runtimeconfig.json
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\bin\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.dll
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\bin\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.pdb
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\obj\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.csproj.AssemblyReference.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\obj\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\obj\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.AssemblyInfoInputs.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\obj\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.AssemblyInfo.cs
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\obj\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.csproj.CoreCompileInputs.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\obj\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.dll
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\obj\Debug\net7.0\refint\Laboratorio_CSharp_TESTUNITARIO_programa.dll
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\obj\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.pdb
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\obj\Debug\net7.0\Laboratorio_CSharp_TESTUNITARIO_programa.genruntimeconfig.cache
+C:\Users\eljav\source\repos\Laboratorio_CSharp\Laboratorio_CSharp_TESTUNITARIO_programa\obj\Debug\net7.0\ref\Laboratorio_CSharp_TESTUNITARIO_programa.dll

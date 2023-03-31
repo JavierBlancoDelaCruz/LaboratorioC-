@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKytedKlJB6JbvBqaA411AhOtClxWRoqN9/sw/GYWaK+facosgNkVm+CHT1ncUe+Vxr6NQErSFRfvUyPxPsuww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eljav\\source\\repos\\Laboratorio_CSharp\\Laboratorio_CSharp_WEBAPI\\Laboratorio_CSharp_WEBAPI1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eljav\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\eljav\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\eljav\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\eljav\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\eljav\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\eljav\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\eljav\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
